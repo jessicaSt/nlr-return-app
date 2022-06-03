@@ -1,6 +1,6 @@
 # nlw-return-app
 <h1 align="center"> Front-end do Projeto da NLW Return</h1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 Vercel runing code: https://nlw-return-app-eight.vercel.app/
 
